@@ -7,6 +7,7 @@ public class HelloTest {
 		System.out.println("git hello");
 		System.out.println("git hello2");
 		System.out.println("我是branch");
+		System.out.println("我是master");
 	}
 
 }
