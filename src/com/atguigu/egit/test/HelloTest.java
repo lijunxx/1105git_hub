@@ -9,6 +9,7 @@ public class HelloTest {
 		System.out.println("我是branch");
 		System.out.println("我是master");
 		System.out.println("我是浏览器端github");
+		System.out.println("wo shi 电脑1");
 	}
 
 }
